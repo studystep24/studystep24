@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌱 24단계 쿠버네티스 실습
 
-<!--
-**studystep24/studystep24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+쿠버네티스 스터디를 위한 공간입니다. [📒 Discussion 바로가기](https://github.com/studystep24/kube24/discussions)  
 
-Here are some ideas to get you started:
+"24단계 실습으로 정복하는 쿠버네티스" 도서를 중심으로 공부하며, 다음과 같이 진도체크 합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 상세 계획
+
+<details>
+<summary> 24단계 실습으로 정복하는 쿠버네티스 </summary>
+    
+#### 24단계 실습으로 정복하는 쿠버네티스 (2025.03.08 ~ )
+| 날짜 | 목표 섹션 | 원선 | 덕린 | 용학 | 성광 | 대현 | 도현 | 현경 | 진헌 |
+| --- | ------- | --- | --- | ---| ---|---- | ----| -----|-----|
+| 3월 8일(토) | 완강 |  ✅   |    |    |     |     |     |      |      |
+| 3월 15일(토) | 완강 |       |    |   |     |     |     |       |     |
+| 3월 22일(토) | 완강 |       |    |   |     |     |     |       |     |
+| 3월 29일(토) | 완강 |       |    |   |     |     |     |       |     |
+| 4월 5일(토) | 완강 |       |    |   |     |     |     |       |     |
+
